@@ -1,8 +1,7 @@
 # run_isoform_histograms_TCGA_BRCA.R
 #
 # Purpose:
-# Generate expression and paired log2FC histograms for NUMB / NUMBL isoforms
-# in TCGA-BRCA, including:
+# Generate expression and paired log2FC histograms for NUMB / NUMBL isoforms in TCGA-BRCA, including:
 #   - Full cohort Normal and Tumor expression histograms (Supplementary)
 #   - Paired Normal vs Tumor expression histograms (Figure 2A)
 #   - Paired log2FC histograms (Figure 2B)
