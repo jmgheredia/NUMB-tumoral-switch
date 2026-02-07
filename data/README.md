@@ -23,8 +23,22 @@ Note: - Direct download URLs may change over time; the DOI above is the stable r
 
 ## TCGA / CCLE
 
-TCGA and CCLE datasets are used in this study but are not redistributed here.
+TCGA and CCLE datasets were used in this study but are not redistributed in this repository.
 
-Users should obtain the relevant TCGA and CCLE files from their official sources: - TCGA: NIH Genomic Data Commons (GDC) - CCLE: DepMap portal
+Users must obtain the corresponding TCGA and CCLE files from their official sources:
 
-Exact file lists / releases used in this study will be documented here prior to publication.
+- TCGA: NIH Genomic Data Commons (GDC)
+- CCLE: Firebrowse 
+
+For reproducibility, the exact file names, releases, and preprocessing steps used in this study are documented in the corresponding analysis scripts.
+
+
+All downstream scripts assume that these files are placed in `data/external/` following the paths specified in each script header.
+
+------------------------------------------------------------------------
+
+## PDMR (Patient-Derived Model Repository) – RSEM archives
+
+Isoform-level expression matrices used for Figure 4 are derived from RSEM output files obtained from the Patient-Derived Model Repository (PDMR).
+
+Due to redistribution restrictions, these RSEM .results files are not included in this repository and must be downloaded manually by the user.
