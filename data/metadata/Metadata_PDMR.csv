@@ -1,0 +1,288 @@
+PatientID.SpecimenID.SampleID;Passage_of_this_sample;Oncotree_code;CTEP_SDC_Description;Diagnosis_Subtype
+K03247.164.R.AL.K4P.AL.M832.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;9;IDC;Invasive breast carcinoma;TNBC, ductal
+K03247.164.R.AL.K4P.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;8;IDC;Invasive breast carcinoma;TNBC, ductal
+K03247.164.R.AL.K4Q.AL.M836.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;9;IDC;Invasive breast carcinoma;TNBC, ductal
+K03247.164.R.AL.K4T.AL.M837.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;9;IDC;Invasive breast carcinoma;TNBC, ductal
+K03247.164.R.AL.K4T.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;8;IDC;Invasive breast carcinoma;TNBC, ductal
+K26406.001.R.AL.K4X.AL.Q12.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;TNBC, ductal
+K26406.001.R.AL.K4X.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;TNBC, ductal
+K26406.001.R.AL.K5C.AL.Q07.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+K26406.001.R.AL.K5C.AL.Q08.AL.Q47.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;4;IDC;Invasive breast carcinoma;ductal, TNBC
+K26406.001.R.AL.K5C.AL.Q09.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+K26406.001.R.AL.K5F.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+K27874.074.R.AL.K6W.AL.H04.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;4;BRCA;Invasive breast carcinoma;TNBC
+K27874.074.R.AL.K6X.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;TNBC
+K27874.074.R.AL.K6X.AL.M822.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;4;BRCA;Invasive breast carcinoma;TNBC
+K27874.074.R.AL.K6X.AL.M824.AL.AJ6.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;5;BRCA;Invasive breast carcinoma;TNBC
+K27874.074.R.AL.K6X.AL.M824.AL.AJ8.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;5;BRCA;Invasive breast carcinoma;TNBC
+K27874.074.R.AL.K7C.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;TNBC
+K33807.207.R.AL.K5G.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;TNBC
+K33807.207.R.AL.K5G.AL.A27.AL.C00.DS2.C69.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;TNBC
+K33807.207.R.AL.K5G.AL.A27.AL.C01.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;5;BRCA;Invasive breast carcinoma;TNBC
+K33807.207.R.AL.K5G.AL.A27.AL.C02.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;5;BRCA;Invasive breast carcinoma;TNBC
+K33807.207.R.AL.K5G.AL.A28.AL.C04.DS2.C60.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;6;BRCA;Invasive breast carcinoma;TNBC
+K33807.207.R.AL.K5G.AL.A29.DS1.C38.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC
+K33807.207.R.AL.K5H.AL.A31.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;4;BRCA;Invasive breast carcinoma;TNBC
+K33807.207.R.AL.K5H.AL.A31.AL.C12.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;5;BRCA;Invasive breast carcinoma;TNBC
+K43197.176.R.AL.K6H.AL.Q32.AL.Q45.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;infiltrating ductal
+K43197.176.R.AL.K6NQ33.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;infiltrating ductal
+K43197.176.R.AL.K6U.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;infiltrating ductal
+K43197.176.R.AL.K6V.AL.A25.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;infiltrating ductal
+K43197.176.R.AL.K6V.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;infiltrating ductal
+K52850.090.T.AL.K7X.AL.FAP.AL.AW6.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;4;IDC;Invasive breast carcinoma;infiltrating ductal
+K52850.090.T.AL.K7X.AL.FAQ.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;infiltrating ductal
+K52850.090.T.AL.K7X.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;infiltrating ductal
+K52850.090.T.AL.K8A.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;infiltrating ductal
+K52850.090.T.AL.K8C.AL.AN6.AL.AU3.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;4;IDC;Invasive breast carcinoma;infiltrating ductal
+K52850.090.T.AL.K8C.AL.AN6.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;infiltrating ductal
+K68440.261.T.KQX.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal
+K68440.261.T.KQXE03.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal
+K68440.261.T.KTAM713E20.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal
+K68440.261.T.KTE.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal
+K68440.261.T.KUUE08E38E79.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;5;IDC;Invasive breast carcinoma;ductal
+K68440.261.T.KUUE08E40.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;4;IDC;Invasive breast carcinoma;ductal
+K74698.298.T.KTFM718.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;NA
+K74698.298.T.KTHM705.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;NA
+K74698.298.T.KTK.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NA
+K74698.298.T.KTKM726E12.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;4;BRCA;Invasive breast carcinoma;NA
+K74698.298.T.KTKM728.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;NA
+K84690.194.R.AL.FCU.AL.G00.AL.G15.v2.0.4.21.0.RNASeq.RSEM.isoforms.results;5;BRCNOS;Invasive breast carcinoma;TNBC
+K84690.194.R.AL.FCU.AL.G00.v2.0.4.21.0.RNASeq.RSEM.isoforms.results;4;BRCNOS;Invasive breast carcinoma;TNBC
+K84690.194.R.AL.FCU.AL.G00G17.v2.0.4.21.0.RNASeq.RSEM.isoforms.results;5;BRCNOS;Invasive breast carcinoma;TNBC
+K84690.194.R.AL.FCU.v2.0.4.21.0.RNASeq.RSEM.isoforms.results;3;BRCNOS;Invasive breast carcinoma;TNBC
+K84690.194.R.AL.FCV.AL.G07.v2.0.4.21.0.RNASeq.RSEM.isoforms.results;4;BRCNOS;Invasive breast carcinoma;TNBC
+K84690.194.R.AL.FEE.v2.0.4.21.0.RNASeq.RSEM.isoforms.results;3;BRCNOS;Invasive breast carcinoma;TNBC
+K88036.263.T.KTP.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC
+K88036.263.T.KTQ.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC
+K88036.263.T.KTQC01.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;TNBC
+K88036.263.T.KTTC05.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;TNBC
+K88036.263.T.KTU.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC
+128162.247.R.AL.NQ6.AL.T93.AL.W64.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+128162.247.R.AL.NQ6.AL.T93.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+128162.247.R.AL.NQ6.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+128162.247.R.AL.NQ7.AL.U52.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+128162.247.R.AL.NQ9.AL.U84.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+128162.247.R.AL.NQ9.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+171881.019.R.APW.DS2.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;BRCA;Invasive breast carcinoma;NA
+193832.021.R.AL.JGF.AL.WF0.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+193832.021.R.AL.JGF.AL.WF4.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+193832.021.R.AL.JGF.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+193832.021.R.AL.JGK.AL.W50.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+193832.021.R.AL.JGK.AL.W57.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+193832.021.R.AL.JGK.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+193832.021.R.ORIGINATOR.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;Resection;IDC;Invasive breast carcinoma;ductal, TNBC
+231664.311.R.AL.F3H.AL.C69.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+231664.311.R.AL.F3H.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;Ductal
+231664.311.R.AL.F3J.AL.AE1.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+231664.311.R.AL.F3J.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;Ductal
+231664.311.R.AL.F3K.AL.C90.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+231664.311.R.AL.F3N.AL.AW8.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+243415.090.R.AL.WGC.AL.AJ0.AL.J82.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;Ductal
+243415.090.R.AL.WGC.AL.AJ0.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+243415.090.R.AL.WGC.AL.AJ6.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+243415.090.R.AL.WGC.AL.AJ7.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+243415.090.R.AL.WGC.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;Ductal
+243415.090.R.ORIGINATOR.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;Resection;IDC;Invasive breast carcinoma;Ductal
+337426.197.R.AL.F5Y.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;BRCA;Invasive breast carcinoma;TNBC
+352319.331.R.AL.KHF.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;BRCA;Invasive breast carcinoma;NST
+388244.064.R.AL.K8X.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;0;BRCA;Invasive breast carcinoma;NST
+397859.316.R.ORIGINATOR.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;Resection;IDC;Invasive breast carcinoma;Ductal
+397859.316.R.P0POOL.OT.Q23.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+397859.316.R.P0POOL.OT.Q23N59.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+397859.316.R.P0POOL.OT.Q23N60KY7W19.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;4;IDC;Invasive breast carcinoma;ductal, TNBC
+397859.316.R.P0POOL.OT.Q23N60N00UE1X09.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;5;IDC;Invasive breast carcinoma;ductal, TNBC
+397859.316.R.P0POOL.OT.Q25.RG.NP9.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+397859.316.R.P0POOL.OT.Q25.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+412248.322.R.ORIGINATOR.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;Resection;IDC;Invasive breast carcinoma;ductal, TNBC
+412248.322.R.QXC.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+412248.322.R.QXCXA7.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+412248.322.R.QXTTN3WN6.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+412248.322.R.QXTTN4.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+412248.322.R.QXTTN7.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+412248.322.R.QXUVX9.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+414838.212.R.AL.Y5C.AL.XC6.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+414838.212.R.AL.Y5CXC8YA9.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;TNBC, ductal
+414838.212.R.AL.Y5E.AL.WY3YK7.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;TNBC, ductal
+414838.212.R.AL.Y5E.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;TNBC, ductal
+414838.212.R.AL.Y5EWY7.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+414838.212.R.AL.Y5F.AL.XW4.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+415267.285.R.AK3.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IBC;Inflammatory breast carcinoma;TNBC
+415267.285.R.AK3JG4.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IBC;Inflammatory breast carcinoma;TNBC
+415267.285.R.AK3JG5K66.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IBC;Inflammatory breast carcinoma;TNBC
+415267.285.R.AK3JG5K68C67.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;3;IBC;Inflammatory breast carcinoma;TNBC
+415267.285.R.AK3JJ0C83.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IBC;Inflammatory breast carcinoma;TNBC
+415267.285.R.AK6.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IBC;Inflammatory breast carcinoma;TNBC
+415267.285.R.ORIGINATOR.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;Resection;IBC;Inflammatory breast carcinoma;TNBC
+428986.081.R.AL.VEP.AL.G99.AL.N08.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;MASCC;Breast cancer, NOS;TNBC, Metaplastic Spindle Cell Carcinoma
+428986.081.R.AL.VEP.AL.J01.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;MASCC;Breast cancer, NOS;TNBC, Metaplastic Spindle Cell Carcinoma
+428986.081.R.AL.VEQ.AL.J19.RG.AL.P52.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;MASCC;Breast cancer, NOS;TNBC, Metaplastic Spindle Cell Carcinoma
+428986.081.R.AL.VEQ.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;MASCC;Breast cancer, NOS;TNBC, Metaplastic Spindle Cell Carcinoma
+428986.081.R.ORIGINATOR.v2.0.4.21.0.RNASeq.RSEM.isoforms.results;Resection;MASCC;Breast cancer, NOS;TNBC, Metaplastic Spindle Cell Carcinoma
+431587.115.T.AL.YFY.AL.M913.AL.V22.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;ILC;Invasive breast carcinoma;Lobular
+431587.115.T.AL.YFY.AL.M913.AL.V25.AL.A50.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;ILC;Invasive breast carcinoma;Lobular
+431587.115.T.AL.YFY.AL.M915.AL.M136.RG.AL.AW6.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;ILC;Invasive breast carcinoma;Lobular
+431587.115.T.AL.YFY.AL.M915.AL.M137.AL.A02.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;ILC;Invasive breast carcinoma;Lobular
+431587.115.T.AL.YFY.AL.M915.AL.M138.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;ILC;Invasive breast carcinoma;Lobular
+431587.115.T.AL.YFY.AL.M915.AL.M140.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;ILC;Invasive breast carcinoma;Lobular
+431587.115.T.AL.YFY.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;0;ILC;Invasive breast carcinoma;Lobular
+447297.187.R.AL.WYC.AL.GV6.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+447297.187.R.AL.WYC.AL.GV7.AL.A32.AL.N37.AL.T78.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;4;IDC;Invasive breast carcinoma;TNBC, ductal
+447297.187.R.AL.WYC.AL.GV7.AL.A32.AL.N45.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;TNBC, ductal
+447297.187.R.AL.WYC.AL.GV7.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+447297.187.R.AL.WYC.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;TNBC, ductal
+448835.203.R.AL.F1A.AL.K48.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+448835.203.R.AL.F1C.AL.E87.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+448835.203.R.AL.F1C.AL.E88.AL.K84.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;TNBC, ductal
+448835.203.R.AL.F1C.AL.E90.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+448835.203.R.AL.F1C.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;TNBC, ductal
+448835.203.R.AL.F1E.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;TNBC, ductal
+532944.190.R.ORIGINATOR.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;Resection;BRCA;Invasive breast carcinoma;NA
+535342.205.R.AL.Y4A.AL.ND4.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+535342.205.R.AL.YEJ.AL.KT5.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+535342.205.R.AL.YEJ.AL.KT7.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+535342.205.R.AL.YEJ.AL.KT9.AL.NU0.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+535342.205.R.AL.YEJ.AL.KT9.AL.NU4.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+535342.205.R.AL.YEJ.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+556579.094.R.UWU.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;0;BRCA;Invasive breast carcinoma;TNBC, Mammary
+558632.135.R.AL.ETU.AL.EK4.AL.G54.AL.Q74.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+558632.135.R.AL.ETU.AL.EK5.AL.G89.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+558632.135.R.AL.ETU.AL.EK5.AL.G96.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+558632.135.R.AL.ETU.AL.EK5.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+558632.135.R.AL.ETU.AL.EK6.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+562452.108.R.AL.KV5P13.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+562452.108.R.AL.KV7.AL.C01P33.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+562452.108.R.AL.KV7.AL.C02.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+562452.108.R.AL.KV8.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+562452.108.R.AL.KV9.AL.J89.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+562452.108.R.AL.KV9.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+585541.042.R.AL.P7U.AL.A62.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IBC;Inflammatory breast carcinoma;infiltrating ductal
+585541.042.R.AL.P7V.AL.A57.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IBC;Inflammatory breast carcinoma;infiltrating ductal
+585541.042.R.AL.P8A.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IBC;Inflammatory breast carcinoma;infiltrating ductal
+585541.042.R.AL.P8E.AL.A32.AL.A74.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IBC;Inflammatory breast carcinoma;infiltrating ductal
+585541.042.R.AL.P8E.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IBC;Inflammatory breast carcinoma;infiltrating ductal
+594336.271.R.AL.G6E.AL.Q52.AL.U84.AL.V75.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+594336.271.R.AL.G6E.AL.Q52.AL.U84.AL.V78.AL.A13.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;4;IDC;Invasive breast carcinoma;ductal, TNBC
+594336.271.R.AL.G6E.AL.Q52.AL.U84.AL.V80.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+594336.271.R.AL.G6E.AL.Q52.AL.U88.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+594336.271.R.AL.G6E.AL.Q58.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+594336.271.R.AL.G6E.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+727343.253.R.AL.NNV.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;0;BRCA;Invasive breast carcinoma;NA
+727737.146.R.AL.XXK.AL.H76.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+727737.146.R.AL.XXK.AL.H77.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+727737.146.R.AL.XXK.AL.H79.AL.N18.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+727737.146.R.AL.XXK.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+731979.095.R.AL.VAY.AL.W08.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+731979.095.R.AL.VAY.AL.W10.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+731979.095.R.AL.VAY.AL.W13.AL.P28.AL.U19.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+731979.095.R.AL.VAY.AL.W13.AL.P28.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+731979.095.R.AL.VAY.AL.W13.AL.P30.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+731979.095.R.AL.VJW.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+748385.122.R.ORIGINATOR.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;Resection;IDC;Invasive breast carcinoma;ductal, TNBC
+748385.122.R.X1G.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;Ductal
+748385.122.R.X1GH06.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+748385.122.R.X1GH07.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+748385.122.R.X1GH07G96.AL.KU5.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;Ductal
+748385.122.R.X1GH07G96.AL.KV2.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;Ductal
+748385.122.R.X1GM092J94.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;Ductal
+755229.096.R.AL.VNC.AL.C52.AL.Q51.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;Ductal
+755229.096.R.AL.VNC.AL.C53.AL.J67.AL.Q60.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;Ductal
+755229.096.R.AL.VNC.AL.C53.AL.J67.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;Ductal
+755229.096.R.AL.VNC.AL.C54.AL.Q07.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;Ductal
+755229.096.R.AL.VNC.AL.C55.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;Ductal
+755229.096.R.AL.VNC.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;Ductal
+755229.096.R.ORIGINATOR.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;Resection;IDC;Invasive breast carcinoma;Ductal
+755484.060.R.AL.U0J.AL.NT5.AL.Q86.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;TNBC, ductal
+755484.060.R.AL.U0J.AL.NT5.AL.Q87.AL.E28.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;TNBC, ductal
+755484.060.R.AL.U0J.AL.NT5.AL.Q87.AL.E29.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;TNBC, ductal
+755484.060.R.AL.U0J.AL.NT5.AL.Q87.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;TNBC, ductal
+755484.060.R.AL.U0J.AL.NT5.AL.Q89.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;TNBC, ductal
+755484.060.R.AL.U0J.AL.NU4.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;TNBC, ductal
+755484.060.R.AL.U0J.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;TNBC, ductal
+771265.069.T.AL.GCE.AL.C35.AL.E98.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+771265.069.T.AL.GCE.AL.C37.AL.E44.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+771265.069.T.AL.GCE.AL.C37.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+771265.069.T.AL.GCE.AL.C40.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+771265.069.T.AL.GCE.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+824345.141.R.AL.NTW.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;BRCA;Invasive breast carcinoma;TNBC
+868763.120.R.AL.N2P.AL.Y21.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+868763.120.R.AL.N2P.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+868763.120.R.AL.N3P.AL.X21.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+868763.120.R.AL.N3P.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+868763.120.R.AL.NTT.AL.X86.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+868763.120.R.AL.NTT.AL.X92.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+879694.015.R.AL.N62.AL.X08.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+879694.015.R.AL.N63.AL.X46.AL.Y46.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+879694.015.R.AL.N63.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+879694.015.R.AL.N65.AL.X01.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+879694.015.R.AL.N66.AL.W91.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+879694.015.R.AL.N66.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+879694.015.R.ORIGINATOR.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;Resection;IDC;Invasive breast carcinoma;ductal, TNBC
+885512.296.R.AL.KAE.AL.Q12.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;MMBC;Invasive breast carcinoma;TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma
+885512.296.R.AL.KAF.AL.Q24.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;MMBC;Invasive breast carcinoma;TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma
+885512.296.R.AL.KAF.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;MMBC;Invasive breast carcinoma;TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma
+885512.296.R.AL.KAG.AL.Q33.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;MMBC;Invasive breast carcinoma;TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma
+885512.296.R.AL.KAG.AL.Q34.AL.T39.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;MMBC;Invasive breast carcinoma;TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma
+885512.296.R.AL.KAW.AL.Q88.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;MMBC;Invasive breast carcinoma;TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma
+885512.296.R.ORIGINATOR.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;Resection;MMBC;Invasive breast carcinoma;TNBC, mixed ductal carcinoma and metaplastic squamous cell carcinoma
+888918.336.R.AL.FKY.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;0;BRCA;Invasive breast carcinoma;NA
+913291.066.R.UJF.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+913291.066.R.UJH.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+913291.066.R.UJHG07K01.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+913291.066.R.UJHG08.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+913291.066.R.UJHG08J25.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+913291.066.R.UJHG08J26.AL.KX9.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+974727.301.T.OT.PPJ.OT.UH0YJ3.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+974727.301.T.OT.PPJ.OT.UH3XX0.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+974727.301.T.OT.PPJ.OT.UH3XX3CK1.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+974727.301.T.OT.PPJ.OT.UH3XX3CK4F16.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;4;IDC;Invasive breast carcinoma;ductal, TNBC
+974727.301.T.OT.PPJ.OT.UH5.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+974727.301.T.OT.PPJ.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+994819.140.R.OT.FWCP10.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+994819.140.R.OT.FWF.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;0;IDC;Invasive breast carcinoma;ductal, TNBC
+994819.140.R.OT.FWFP18.RG.N13.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+994819.140.R.OT.FWFP18.RG.N15.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;2;IDC;Invasive breast carcinoma;ductal, TNBC
+994819.140.R.OT.FWFP18.RG.N15K11.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;3;IDC;Invasive breast carcinoma;ductal, TNBC
+994819.140.R.OT.FWFP19.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;IDC;Invasive breast carcinoma;ductal, TNBC
+171881.019.R.APVG40.RG.G15.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NA
+171881.019.R.APWG05.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NA
+171881.019.R.APWG05PF7.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NA
+171881.019.R.APYF68.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NA
+171881.019.R.ORIGINATOR.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;Resection;BRCA;Invasive breast carcinoma;NA
+337426.197.R.AL.F5W.AL.A70.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;TNBC
+337426.197.R.AL.F5W.AL.A72E71.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC
+337426.197.R.AL.F5Y.AL.A79.AL.C55.AL.F15.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;TNBC
+337426.197.R.AL.F5Y.AL.A80.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;TNBC
+337426.197.R.AL.F5Y.AL.A81.AL.C56.AL.E24.AL.F39.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;4;BRCA;Invasive breast carcinoma;TNBC
+337426.197.R.ORIGINATOR.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;Resection;BRCA;Invasive breast carcinoma;TNBC
+352319.331.R.AL.KHF.AL.A37.RG.AL.K80.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NST
+352319.331.R.AL.KHF.AL.A37.RG.AL.K84.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NST
+352319.331.R.AL.KHF.AL.A39.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NST
+352319.331.R.AL.KHF.AL.A41.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NST
+352319.331.R.AL.KHF.AL.A44.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NST
+388244.064.R.AL.K8X.AL.A06.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NST
+388244.064.R.AL.K8X.AL.A07.AL.M292.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NST
+388244.064.R.AL.K8X.AL.A07.AL.M293.AL.J83.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;3;BRCA;Invasive breast carcinoma;NST
+388244.064.R.AL.K8X.AL.A12.AL.C50.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NST
+388244.064.R.AL.KKY.AL.AF1.v2.0.2.21.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NST
+388244.064.R.ORIGINATOR.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;Resection;BRCA;Invasive breast carcinoma;NST
+556579.094.R.UWTJT3.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;TNBC, Mammary
+556579.094.R.UWUJJ0KX2.v2.0.1.6.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC, Mammary
+556579.094.R.UWUJJ1.RG.PV8.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC, Mammary
+556579.094.R.UWUJJ3.v2.0.1.4.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;TNBC, Mammary
+556579.094.R.UWVJT7.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;TNBC, Mammary
+727343.253.R.AL.N6A.AL.U22.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NA
+727343.253.R.AL.N6A.AL.U25.AL.M392.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NA
+727343.253.R.AL.NNV.AL.T61.AL.U58.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NA
+727343.253.R.AL.NNV.AL.T63.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NA
+727343.253.R.AL.NNV.AL.T73.AL.U63.v2.0.2.14.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NA
+824345.141.R.AL.NTW.AL.E70.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;TNBC
+824345.141.R.AL.NTW.AL.E70.AL.K93.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC
+824345.141.R.AL.NTW.AL.E70.AL.N00.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;TNBC
+824345.141.R.AL.NTW.AL.E73.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;TNBC
+824345.141.R.AL.NTW.AL.E76.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;TNBC
+824345.141.R.ORIGINATOR.v2.0.2.4.0.RNASeq.RSEM.isoforms.results;Resection;BRCA;Invasive breast carcinoma;TNBC
+888918.336.R.AL.FKY.AL.G86.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NA
+888918.336.R.AL.FKY.AL.G88.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NA
+888918.336.R.AL.FKY.AL.G88.AL.K01.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NA
+888918.336.R.AL.FKY.AL.G93.v2.0.2.16.0.RNASeq.RSEM.isoforms.results;1;BRCA;Invasive breast carcinoma;NA
+888918.336.R.AL.FKY.AL.G94.RG.AL.N34.v2.0.2.17.0.RNASeq.RSEM.isoforms.results;2;BRCA;Invasive breast carcinoma;NA
