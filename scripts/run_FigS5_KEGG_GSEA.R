@@ -155,14 +155,12 @@ write.csv(
 # ============================================================
 
 kegg_terms <- list(
-  "hsa04060" = "Cytokine-cytokine receptor interaction",
   "hsa04081" = "Hormone signaling",
-  "hsa04520" = "Adherens junction",
-  "hsa00020" = "Citrate cycle (TCA cycle)",
-  "hsa04152" = "AMPK signaling pathway",
-  "hsa04062" = "Chemokine signaling pathway",
+  "hsa04060" = "Cytokine-cytokine receptor interaction",
   "hsa04510" = "Focal adhesion",
-  "hsa04658" = "Th1 and Th2 cell differentiation"
+  "hsa04152" = "AMPK signaling pathway",
+  "hsa00020" = "Citrate cycle (TCA cycle)",
+  "hsa00620" = "Pyruvate metabolism"
 )
 
 for (kegg_id in names(kegg_terms)) {
