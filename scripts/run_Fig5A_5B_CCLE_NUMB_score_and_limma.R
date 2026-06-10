@@ -140,7 +140,7 @@ hist(
   ylab = "Frequency"
 )
 
-abline(v = threshold, col = "red", lwd = 2)
+abline(v = threshold, col = "#E69F00", lwd = 2)
 dev.off()
 
 # ============================================================

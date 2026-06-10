@@ -139,13 +139,29 @@ ajcc_levels <- c(
   "Unknown"
 )
 
+# Color-blind friendly palette (no yellow)
+cb_palette <- c(
+  "#0072B2",
+  "#56B4E9",
+  "#009E73",
+  "#CC79A7",
+  "#D55E00", 
+  "#E69F00",
+  "#999999",
+  "#88CCEE",
+  "#AA4499",
+  "#44AA99",
+  "#3B8BC2",
+  "#117733"  
+)
+
 score_NUMB_clean$Group_plot <-
   factor(score_NUMB_clean$Group_plot, levels = ajcc_levels)
 
 # Plot Figure 6B
 tiff(
   file.path(fig6_dir, "Fig_6B_violin_NUMB_score_AJCC_NonTumor.tiff"),
-  width = 1800, height = 1200, res = 150
+  width = 2400, height = 1800, res = 300
 )
 
 ggplot(
@@ -154,14 +170,21 @@ ggplot(
 ) +
   geom_violin(trim = FALSE) +
   geom_boxplot(width = 0.1, color = "black", outlier.shape = NA) +
-  geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+  geom_jitter(width = 0.2, alpha = 0.4, size = 1.0) +
+  scale_fill_manual(
+    values = rep(cb_palette, length.out = length(levels(score_NUMB_clean$Group_plot)))
+  ) +
   theme_minimal(base_size = 14) +
   labs(
     title = "NUMB score distribution by AJCC stage (including Non-tumor)",
     x = "Clinical group (AJCC stage)",
     y = "NUMB score"
   ) +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank()
+  ) +
   guides(fill = "none")
 
 dev.off()
@@ -240,6 +263,16 @@ pam50_levels <- c(
   "Her2"
 )
 
+# Color palette (consistent with Fig 6B, color-blind friendly)
+cb_palette_pam50 <- c(
+  "Non-tumor"   = "#0072B2",
+  "Basal"       = "#D55E00",
+  "Normal-like" = "#009E73",
+  "LumA"        = "#CC79A7",
+  "LumB"        = "#56B4E9",
+  "Her2"        = "#E69F00"
+)
+
 score_NUMB_pam50_clean$Group_PAM50_Combined <-
   factor(
     score_NUMB_pam50_clean$Group_PAM50_Combined,
@@ -266,15 +299,21 @@ ggplot(
 ) +
   geom_violin(trim = FALSE) +
   geom_boxplot(width = 0.1, color = "black", outlier.shape = NA) +
-  geom_jitter(width = 0.2, alpha = 0.4, size = 1) +
+  geom_jitter(width = 0.2, alpha = 0.4, size = 1.2) +
+  scale_fill_manual(values = cb_palette_pam50) +
   theme_minimal(base_size = 14) +
   labs(
     title = "NUMB score distribution by PAM50 subtype (including Non-tumor)",
     x = "Clinical group",
     y = "NUMB score"
   ) +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank()
+  ) +
   guides(fill = guide_legend(title = "Group"))
+
 
 dev.off()
 
